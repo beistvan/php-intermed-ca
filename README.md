@@ -1,2 +1,1 @@
-# php-ntermed-ca
-PHP Intermediate Course CA
+# PHP Intermediate Course CA
